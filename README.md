@@ -1,0 +1,1 @@
+This repository offers a beginner-friendly guide and codebase for web scraping using Python. The code showcases how to retrieve and manipulate data from websites efficiently. It employs popular libraries such as requests for fetching web pages and Beautiful Soup for parsing HTML content.
